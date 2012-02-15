@@ -1,0 +1,6 @@
+name = Google plus
+description = Imports a user's google plus feed into activity stream
+dependencies[] = activitystream 
+dependencies[] = activitystream_feed
+package = Activity Stream
+core = 6.x
